@@ -1,0 +1,30 @@
+.bg {
+    background-color: cyan;
+    height: 200px;
+    position: relative;
+}
+
+.info {
+    background-color: pink;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    display: flex;
+    flex-direction: column;
+    border: 5px solid silver;
+    padding: 20px;
+}
+
+.cr {
+    height: 20px;
+}
+
+.pic {
+    height: 200px;
+    position: absolute;
+    top: 30px;
+    left: 30px;
+}
+
+.pic1 {
+    height: 15px;
+    font-size: 15px;
+}
